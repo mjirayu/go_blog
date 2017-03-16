@@ -1,0 +1,20 @@
+hash: 49be2cf888e72d128b164a068422088ef4d0bd4e3181b28e8b4ef89961e08f8c
+updated: 2017-03-16T18:41:54.62965555+07:00
+imports:
+- name: github.com/codegangsta/gin
+  version: b2d0f660ae0db9c0a6e9fbdf0349e138f3802292
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/handlers
+  version: 3a5767ca75ece5f7f1440b1d16975247f8d8b221
+- name: github.com/gorilla/mux
+  version: 392c28fe23e1c45ddba891b0320b3b5df220beea
+- name: github.com/lib/pq
+  version: 472a0745531a17dbac346e828b4c60e73ddff30c
+  subpackages:
+  - oid
+- name: github.com/mattes/migrate
+  version: 1f37f41ee8c7d69a3d835f2ed60d054c9407b85d
+- name: github.com/mattn/goreman
+  version: 3a84a95fe47b27112d9bece50e3b4fd17a1dd5bb
+testImports: []

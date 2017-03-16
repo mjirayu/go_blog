@@ -1,0 +1,8 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Blog is built by Go",
+  "main": "index.js",
+  "author": "Jirayu Chamamahattana",
+  "license": "MIT"
+}
