@@ -2,9 +2,16 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/dist/app.css">
     <title>Golang</title>
   </head>
   <body>
-    {{template "content"}}
+    {{ template "header" }}
+
+    {{ template "content" }}
+
+    {{ template "footer" }}
+
+    <script src="/assets/dist/app.js"></script>
   </body>
 </html>
