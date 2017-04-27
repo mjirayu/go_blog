@@ -10613,3 +10613,13 @@ a.text-gray-dark:hover {
   }
 }
 
+.signup,
+.login {
+  padding: 40px 0;
+}
+
+.signup .sign-up-form,
+.login .sign-up-form {
+  padding: 20px 0;
+}
+
